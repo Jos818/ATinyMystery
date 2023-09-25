@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7dbfd464792ea4b9c27c0e773924d9, type: 3}
+  m_Name: Mayor Convo 6.1
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+  speakerRight: {fileID: 11400000, guid: 2c46b74383529ab4c891703d0784ad44, type: 2}
+  question: {fileID: 0}
+  item: {fileID: 11400000, guid: f9392d884c32c5e4e8511c982dcd981c, type: 2}
+  alreadyhasitem: 0
+  notes: {fileID: 11400000, guid: 25fcb76919577ec47a403efe0d6e58f9, type: 2}
+  noteaddition:
+  - He taught me about my Inventory, which was nice.
+  - He gave me a Letter that should help me interview the other residents of Tiny
+    Town, so I guess he's cooperating.
+  hasnoteaddition: 1
+  alreadyhasnotes: 0
+  DestroyTrigger: 0
+  FinalTrigger: 0
+  EndScreenSceneIndex: 0
+  music: {fileID: 8300000, guid: 4bfc01fd247eb294588897d3b58cc5ed, type: 3}
+  StopMusic: 0
+  nextConversation: {fileID: 11400000, guid: f41ee311b183a94439e6ded8eb583c1b, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 2c46b74383529ab4c891703d0784ad44, type: 2}
+    text: Well, have you reviewed your Inventory?
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: Yeah! And I have proof that I'm a detective too.
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: Check it out!
+  - character: {fileID: 11400000, guid: 2c46b74383529ab4c891703d0784ad44, type: 2}
+    text: Now that's a fine Magnifying Glass you have there. The universal symbol
+      for detectives everywhere.
+  - character: {fileID: 11400000, guid: 2c46b74383529ab4c891703d0784ad44, type: 2}
+    text: With that, I'm confident that you're more than capable of running an investigation
+      of the town.
+  - character: {fileID: 11400000, guid: 2c46b74383529ab4c891703d0784ad44, type: 2}
+    text: Take this Letter. With it, you'll have access to all the buildings in town.
+      And just show it to anyone you want to talk to, and they'll cooperate.

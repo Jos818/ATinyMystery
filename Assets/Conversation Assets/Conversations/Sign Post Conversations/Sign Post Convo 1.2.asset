@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7dbfd464792ea4b9c27c0e773924d9, type: 3}
+  m_Name: Sign Post Convo 1.2
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 5e302f74aa629b64c8cef82b03ef7db0, type: 2}
+  speakerRight: {fileID: 11400000, guid: 7c82b4c6ecd06ee4d873f68ec31e848c, type: 2}
+  question: {fileID: 0}
+  item: {fileID: 0}
+  alreadyhasitem: 0
+  DestroyTrigger: 0
+  FinalTrigger: 0
+  EndScreenSceneIndex: 0
+  music: {fileID: 0}
+  StopMusic: 0
+  nextConversation: {fileID: 11400000, guid: 0fb04eb9800827443aa424ac88cf2ef3, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 5e302f74aa629b64c8cef82b03ef7db0, type: 2}
+    text: Did that sign just talk?
+  - character: {fileID: 11400000, guid: 7c82b4c6ecd06ee4d873f68ec31e848c, type: 2}
+    text: UH... NO.
+  - character: {fileID: 11400000, guid: 7c82b4c6ecd06ee4d873f68ec31e848c, type: 2}
+    text: I MEAN. WELCOME TO PLAYER'S BEDROOM FLOOR. FORBES MAGAZINE'S #7 RANKED
+      TINY VACATION DESTINATION.
+  - character: {fileID: 11400000, guid: 5e302f74aa629b64c8cef82b03ef7db0, type: 2}
+    text: You clearly just talked again.
+  - character: {fileID: 11400000, guid: 7c82b4c6ecd06ee4d873f68ec31e848c, type: 2}
+    text: No I didn't! Shut up!

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8da5981926cb2543acbecc06af183de, type: 3}
+  m_Name: Cy N. Post Q2
+  m_EditorClassIdentifier: 
+  text: I should probably ask him more about the situation.
+  choices:
+  - text: Town?
+    conversation: {fileID: 11400000, guid: a45289e26f9b7b140ae44f46b6b64a9c, type: 2}
+  - text: Who did this?
+    conversation: {fileID: 11400000, guid: 949c6862de680a54aa9b8843323e8f63, type: 2}
+  - text: That's all I need to know
+    conversation: {fileID: 11400000, guid: 7a7fd67efd99ae748a2695e4f37e3e93, type: 2}

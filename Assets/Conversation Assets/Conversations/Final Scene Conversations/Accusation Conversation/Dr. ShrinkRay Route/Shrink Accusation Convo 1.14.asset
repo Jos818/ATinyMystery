@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7dbfd464792ea4b9c27c0e773924d9, type: 3}
+  m_Name: Shrink Accusation Convo 1.14
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 0d869e5ebc823764eaea88a164438b1b, type: 2}
+  speakerRight: {fileID: 11400000, guid: fcf59b1141aacd242ad6622f73828dce, type: 2}
+  question: {fileID: 0}
+  item: {fileID: 0}
+  alreadyhasitem: 0
+  DestroyTrigger: 0
+  FinalTrigger: 0
+  EndScreenSceneIndex: 0
+  nextConversation: {fileID: 11400000, guid: 0b957933ed85ecb438a801c127ee4b10, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 0d869e5ebc823764eaea88a164438b1b, type: 2}
+    text: Oh, that's a relief.
+  - character: {fileID: 11400000, guid: fcf59b1141aacd242ad6622f73828dce, type: 2}
+    text: That being said, I still have the problem of returning to my normal size.
+      I'd like to be able to look my family in the eyes again.
+  - character: {fileID: 11400000, guid: fcf59b1141aacd242ad6622f73828dce, type: 2}
+    text: I've also got some major dusting to do...

@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7dbfd464792ea4b9c27c0e773924d9, type: 3}
+  m_Name: Sign Post Convo 5.3
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+  speakerRight: {fileID: 11400000, guid: 1887f7a62d7adf5458a066cf7f528fc8, type: 2}
+  question: {fileID: 0}
+  item: {fileID: 0}
+  alreadyhasitem: 0
+  DestroyTrigger: 0
+  FinalTrigger: 0
+  EndScreenSceneIndex: 0
+  music: {fileID: 0}
+  StopMusic: 0
+  nextConversation: {fileID: 11400000, guid: 6283fb0cd92672d469117784cd38e1b9, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: But now that you mention it, I really don't have any idea how to be a detective
+      for real. I've read all about it, but I'm not really sure where to start...
+  - character: {fileID: 11400000, guid: 1887f7a62d7adf5458a066cf7f528fc8, type: 2}
+    text: Well I'm no expert, but I bet if you snoop around and talk to the town
+      residents, you'll come up with something. The people there are pretty friendly,
+      so I bet they'll try and help where they can.
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: Well that settles it! I'm gonna solve this mystery!
+  - character: {fileID: 11400000, guid: 1887f7a62d7adf5458a066cf7f528fc8, type: 2}
+    text: Good luck kid. And one more thing. Make sure you talk to the mayor before
+      you go interrogating some innocent civillians. He'll want to know what's going
+      on.
+  - character: {fileID: 11400000, guid: 1887f7a62d7adf5458a066cf7f528fc8, type: 2}
+    text: You can probably find him hanging around the town square. He should be
+      pretty easy to find, with those mesmerising good looks of his.

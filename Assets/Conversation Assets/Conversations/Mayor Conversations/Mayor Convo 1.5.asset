@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7dbfd464792ea4b9c27c0e773924d9, type: 3}
+  m_Name: Mayor Convo 1.5
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+  speakerRight: {fileID: 11400000, guid: 2c46b74383529ab4c891703d0784ad44, type: 2}
+  question: {fileID: 11400000, guid: 75f47d6807a40e14fa826d0b5d87ae26, type: 2}
+  item: {fileID: 0}
+  alreadyhasitem: 0
+  nextConversation: {fileID: 0}
+  lines:
+  - character: {fileID: 11400000, guid: 2c46b74383529ab4c891703d0784ad44, type: 2}
+    text: I'm more than happy to help. I can give you access to all the town's buildings,
+      and let the residents know that they should cooperate with your investigation...
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: Great that's exac....
+  - character: {fileID: 11400000, guid: 2c46b74383529ab4c891703d0784ad44, type: 2}
+    text: Provided that you can prove that you have what it takes to be a detective.
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: What? How am I supposed to do that?
+  - character: {fileID: 11400000, guid: 2c46b74383529ab4c891703d0784ad44, type: 2}
+    text: Well, if you had something that could prove you're a real detective in
+      your Inventory, I imagine that would cover it.
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: Inventory? What's an inventory?
+  - character: {fileID: 11400000, guid: 2c46b74383529ab4c891703d0784ad44, type: 2}
+    text: 'You don''t know what an inventory is? '
+  - character: {fileID: 11400000, guid: 2c46b74383529ab4c891703d0784ad44, type: 2}
+    text: Well that simply won't do. Any detective worth their popcorn knows what
+      an inventory is.

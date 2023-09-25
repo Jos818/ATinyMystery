@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7dbfd464792ea4b9c27c0e773924d9, type: 3}
+  m_Name: Clem Filing Cabinet Convo 1.2
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: bf0113c933cc20d49a37133a0838b7ad, type: 2}
+  speakerRight: {fileID: 11400000, guid: bf64817cb5c07724eb2e3f1b6ca54e56, type: 2}
+  question: {fileID: 0}
+  item: {fileID: 0}
+  alreadyhasitem: 0
+  DestroyTrigger: 0
+  FinalTrigger: 0
+  EndScreenSceneIndex: 0
+  nextConversation: {fileID: 11400000, guid: 7ecd22f17bb680f408052ccbdfb545fe, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: bf0113c933cc20d49a37133a0838b7ad, type: 2}
+    text: Eww.
+  - character: {fileID: 11400000, guid: bf0113c933cc20d49a37133a0838b7ad, type: 2}
+    text: This may be the dustiest thing I've ever touched.
+  - character: {fileID: 11400000, guid: bf0113c933cc20d49a37133a0838b7ad, type: 2}
+    text: Maybe I should actually clean my room...

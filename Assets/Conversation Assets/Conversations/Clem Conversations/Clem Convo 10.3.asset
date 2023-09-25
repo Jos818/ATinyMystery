@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7dbfd464792ea4b9c27c0e773924d9, type: 3}
+  m_Name: Clem Convo 10.3
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+  speakerRight: {fileID: 11400000, guid: f2681bd756b7eb74b9125e316a097258, type: 2}
+  question: {fileID: 11400000, guid: 52f007f5749450e42a61d258e805e8bc, type: 2}
+  item: {fileID: 0}
+  alreadyhasitem: 0
+  notes: {fileID: 11400000, guid: 9379371689faf1e498e5b18a21fe3516, type: 2}
+  noteaddition:
+  - His job is to grow dust, and then scatter it around my room. What he gains from
+    this is anyone's guess.
+  hasnoteaddition: 1
+  alreadyhasnotes: 0
+  DestroyTrigger: 0
+  FinalTrigger: 0
+  EndScreenSceneIndex: 0
+  music: {fileID: 8300000, guid: 70dc570d944fdf042aaae2235f976904, type: 3}
+  StopMusic: 0
+  nextConversation: {fileID: 0}
+  lines:
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: What is dust farming? And why do you do it?
+  - character: {fileID: 11400000, guid: f2681bd756b7eb74b9125e316a097258, type: 2}
+    text: ......Y'see that dust all around the place?
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: Yeah. It gets everywhere in my room. My mom always tells me to clean up,
+      but it never seems to end.
+  - character: {fileID: 11400000, guid: f2681bd756b7eb74b9125e316a097258, type: 2}
+    text: ......'Course not. I make sure of that.
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: Wait, so all that dust... You put it there?
+  - character: {fileID: 11400000, guid: f2681bd756b7eb74b9125e316a097258, type: 2}
+    text: ......Yep.
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: Why? What do you gain from that?
+  - character: {fileID: 11400000, guid: f2681bd756b7eb74b9125e316a097258, type: 2}
+    text: ......I like dust.
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: ...
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: ...I'm just going to pretend I never asked.

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8da5981926cb2543acbecc06af183de, type: 3}
+  m_Name: Accusation Q1
+  m_EditorClassIdentifier: 
+  text: Whodunnit?
+  choices:
+  - text: Clem
+    conversation: {fileID: 11400000, guid: 9c56f6497a4f01b40bb60db94cb18ac0, type: 2}
+  - text: Dr. ShrinkRay
+    conversation: {fileID: 11400000, guid: 7a02b3f4996380a43ae48395d94cdef0, type: 2}
+  - text: The Mayor (Cy N. Post)
+    conversation: {fileID: 11400000, guid: 0739b4bcdd7b6444ca109a290a6e48ef, type: 2}
+  - text: Fly McMarty
+    conversation: {fileID: 11400000, guid: 893af34d040f70443b8556e0406085ad, type: 2}

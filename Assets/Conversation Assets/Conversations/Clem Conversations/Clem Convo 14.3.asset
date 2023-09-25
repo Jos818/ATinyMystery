@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7dbfd464792ea4b9c27c0e773924d9, type: 3}
+  m_Name: Clem Convo 14.3
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 082b7c0e1b6ee684b9cb56b690aba02a, type: 2}
+  speakerRight: {fileID: 11400000, guid: f2681bd756b7eb74b9125e316a097258, type: 2}
+  question: {fileID: 0}
+  item: {fileID: 0}
+  alreadyhasitem: 0
+  notes: {fileID: 11400000, guid: 9379371689faf1e498e5b18a21fe3516, type: 2}
+  noteaddition:
+  - He admitted to wanting to shrink his dust, but he claims that he couldn't have
+    shrunk me. I wonder what else he could be hiding...
+  hasnoteaddition: 1
+  alreadyhasnotes: 0
+  DestroyTrigger: 0
+  FinalTrigger: 0
+  EndScreenSceneIndex: 0
+  music: {fileID: 0}
+  StopMusic: 0
+  nextConversation: {fileID: 0}
+  lines:
+  - character: {fileID: 11400000, guid: f2681bd756b7eb74b9125e316a097258, type: 2}
+    text: ......
+  - character: {fileID: 11400000, guid: f2681bd756b7eb74b9125e316a097258, type: 2}
+    text: ......
+  - character: {fileID: 11400000, guid: 082b7c0e1b6ee684b9cb56b690aba02a, type: 2}
+    text: Okay, no more of the silent act. Tell me what's going on...
+  - character: {fileID: 11400000, guid: f2681bd756b7eb74b9125e316a097258, type: 2}
+    text: ......I didn't want to mention it, given your situation.
+  - character: {fileID: 11400000, guid: f2681bd756b7eb74b9125e316a097258, type: 2}
+    text: ......I have been looking into shrinking my crop to make it easier to carry
+      around.
+  - character: {fileID: 11400000, guid: f2681bd756b7eb74b9125e316a097258, type: 2}
+    text: ......But I don't have the supplies to do it. And I wasn't messing around
+      with that stuff last night anyhow.
+  - character: {fileID: 11400000, guid: 082b7c0e1b6ee684b9cb56b690aba02a, type: 2}
+    text: Interesting...

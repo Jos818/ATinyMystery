@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7dbfd464792ea4b9c27c0e773924d9, type: 3}
+  m_Name: Mayor Convo 1.4
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 082b7c0e1b6ee684b9cb56b690aba02a, type: 2}
+  speakerRight: {fileID: 11400000, guid: b3344859530b14f4d8bfd39915c72617, type: 2}
+  question: {fileID: 0}
+  item: {fileID: 0}
+  alreadyhasitem: 0
+  notes: {fileID: 0}
+  noteaddition: []
+  hasnoteaddition: 0
+  alreadyhasnotes: 0
+  DestroyTrigger: 0
+  FinalTrigger: 0
+  EndScreenSceneIndex: 0
+  music: {fileID: 0}
+  StopMusic: 0
+  nextConversation: {fileID: 11400000, guid: ad89f06d45f4b6d4ca01e5bc591a3e1a, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 082b7c0e1b6ee684b9cb56b690aba02a, type: 2}
+    text: ...
+  - character: {fileID: 11400000, guid: b3344859530b14f4d8bfd39915c72617, type: 2}
+    text: Um, anyways...

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8da5981926cb2543acbecc06af183de, type: 3}
+  m_Name: Test Question
+  m_EditorClassIdentifier: 
+  text: How will the Evil Twin cope with the realization that he's going to be cut
+    during development?
+  choices:
+  - text: He'll accept it with grace.
+    conversation: {fileID: 11400000, guid: b93f66f02aa96cc439bfbc7e32800385, type: 2}
+  - text: He'll cry like a baby.
+    conversation: {fileID: 11400000, guid: b93f66f02aa96cc439bfbc7e32800385, type: 2}
+  - text: He'll go straight into denial.
+    conversation: {fileID: 11400000, guid: b93f66f02aa96cc439bfbc7e32800385, type: 2}

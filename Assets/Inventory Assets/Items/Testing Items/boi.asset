@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09aece6272e940243a630b6557ab4d15, type: 3}
+  m_Name: boi
+  m_EditorClassIdentifier: 
+  label: boi
+  ID: 5
+  description: This is a really cool item! I hope I don't need to do any modifying
+    of the description structure, that seems difficult. But I guess I'll only know
+    for sure once I test this absurdly long item description.
+  image: {fileID: 5945637449605969273, guid: a842354e23c64ce4093ed7ca2ec5fb64, type: 3}

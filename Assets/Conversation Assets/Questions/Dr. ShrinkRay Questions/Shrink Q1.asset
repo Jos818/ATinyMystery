@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8da5981926cb2543acbecc06af183de, type: 3}
+  m_Name: Shrink Q1
+  m_EditorClassIdentifier: 
+  text: This guy is the definition of suspicious. What should I ask him?
+  choices:
+  - text: Ask him what he researches.
+    conversation: {fileID: 11400000, guid: a4c90d09d2b5e8747912d6b3bce5d4b3, type: 2}
+  - text: Ask him about the incident.
+    conversation: {fileID: 11400000, guid: 188e282a10f488741a1f71dfabf46624, type: 2}

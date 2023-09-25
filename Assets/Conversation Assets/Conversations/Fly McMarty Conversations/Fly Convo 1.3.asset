@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7dbfd464792ea4b9c27c0e773924d9, type: 3}
+  m_Name: Fly Convo 1.3
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+  speakerRight: {fileID: 11400000, guid: d8e0966a18bf74c4cb4799c203752283, type: 2}
+  question: {fileID: 0}
+  item: {fileID: 0}
+  alreadyhasitem: 0
+  notes: {fileID: 11400000, guid: 857c2c1440b2cb94885e8d6854acb43b, type: 2}
+  noteaddition:
+  - He witnessed the crime, perfect!
+  hasnoteaddition: 1
+  alreadyhasnotes: 0
+  DestroyTrigger: 0
+  FinalTrigger: 0
+  EndScreenSceneIndex: 0
+  music: {fileID: 0}
+  StopMusic: 0
+  nextConversation: {fileID: 11400000, guid: cd3e96855ee301e41b227c0ba977ad71, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: So there's only one of them? There's no way I could get one?
+  - character: {fileID: 11400000, guid: d8e0966a18bf74c4cb4799c203752283, type: 2}
+    text: I'm afraid so. I only had enough fabric for the one.
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: 'Darn...
+
+      Anyways...'
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: I'm trying to solve a mystery. Would you be able to answer some questions
+      about the incident?
+  - character: {fileID: 11400000, guid: d8e0966a18bf74c4cb4799c203752283, type: 2}
+    text: Sure! Anything I can do to help!
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: Great. Last night, someone went into my room, and shrunk me down to this
+      size, so I need to find them so I can figure out how to reverse this. Did you
+      notice anything strange last night?
+  - character: {fileID: 11400000, guid: d8e0966a18bf74c4cb4799c203752283, type: 2}
+    text: Funny that you mention it, I'm sure I saw the exact event you're referring
+      to take place.

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7dbfd464792ea4b9c27c0e773924d9, type: 3}
+  m_Name: test Convo
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+  speakerRight: {fileID: 11400000, guid: 57d775d236339c041b3821c777de790a, type: 2}
+  question: {fileID: 11400000, guid: 4332ef9ff11559241bcd8620ba976677, type: 2}
+  item: {fileID: 0}
+  alreadyhasitem: 0
+  DestroyTrigger: 1
+  nextConversation: {fileID: 0}
+  lines:
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: This is a test conversation to make sure that the dialogue system functions
+      as-advertised.
+  - character: {fileID: 11400000, guid: 57d775d236339c041b3821c777de790a, type: 2}
+    text: Cool! I can't wait to be part of this game.
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: Um... About that...
+  - character: {fileID: 11400000, guid: 57d775d236339c041b3821c777de790a, type: 2}
+    text: What's wrong? Aren't you excited for the epic struggle we're going to have
+      in this game? It'll go down as one of the greats!
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: Well yes, it would... Except there's not going to be an Evil Twin Character.
+  - character: {fileID: 11400000, guid: 57d775d236339c041b3821c777de790a, type: 2}
+    text: Ha ha! Good one non-evil twin! I should remember that one for my evil,
+      yet playful dialogue in the game!
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: ...
+  - character: {fileID: 11400000, guid: 57d775d236339c041b3821c777de790a, type: 2}
+    text: ...
+  - character: {fileID: 11400000, guid: 57d775d236339c041b3821c777de790a, type: 2}
+    text: You're kidding..right?
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: ...

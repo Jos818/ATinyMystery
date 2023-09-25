@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7dbfd464792ea4b9c27c0e773924d9, type: 3}
+  m_Name: Shrink Convo 4.6
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 082b7c0e1b6ee684b9cb56b690aba02a, type: 2}
+  speakerRight: {fileID: 11400000, guid: 1895b36378d500a459f2e605a0088367, type: 2}
+  question: {fileID: 0}
+  item: {fileID: 0}
+  alreadyhasitem: 0
+  notes: {fileID: 0}
+  noteaddition: []
+  hasnoteaddition: 0
+  alreadyhasnotes: 0
+  DestroyTrigger: 0
+  FinalTrigger: 0
+  EndScreenSceneIndex: 0
+  music: {fileID: 0}
+  StopMusic: 0
+  nextConversation: {fileID: 11400000, guid: fa5e668f4a8d5aa47899d9f0c0a7769f, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 1895b36378d500a459f2e605a0088367, type: 2}
+    text: Well, funny that you should mention that...
+  - character: {fileID: 11400000, guid: 1895b36378d500a459f2e605a0088367, type: 2}
+    text: Normally, the keypad on my door tracks whenever someone enters and leaves
+      my lab, which would be incontrovertible proof that I was where I said I was.
+  - character: {fileID: 11400000, guid: 082b7c0e1b6ee684b9cb56b690aba02a, type: 2}
+    text: Uh-huh...
+  - character: {fileID: 11400000, guid: 1895b36378d500a459f2e605a0088367, type: 2}
+    text: But as it happens, my keypad was on the fritz last night, and so it wasn't
+      able to track any entrances or exits from my lab until this morning, when I
+      fixed it.
+  - character: {fileID: 11400000, guid: 082b7c0e1b6ee684b9cb56b690aba02a, type: 2}
+    text: So you don't have an alibi?
+  - character: {fileID: 11400000, guid: 1895b36378d500a459f2e605a0088367, type: 2}
+    text: No, I do not.
+  - character: {fileID: 11400000, guid: 082b7c0e1b6ee684b9cb56b690aba02a, type: 2}
+    text: Lovely.

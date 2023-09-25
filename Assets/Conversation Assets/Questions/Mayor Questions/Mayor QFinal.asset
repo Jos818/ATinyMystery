@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8da5981926cb2543acbecc06af183de, type: 3}
+  m_Name: Mayor QFinal
+  m_EditorClassIdentifier: 
+  text: Are you ready to end this thing?
+  choices:
+  - text: Hell yeah! Let's solve this mystery!
+    conversation: {fileID: 11400000, guid: e9bad13653b9ac5449a7e0fc035ca794, type: 2}
+  - text: I'd like to investigate a little more I think...
+    conversation: {fileID: 11400000, guid: 28eef3f495e087a429568218a5f5c2d1, type: 2}

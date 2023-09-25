@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfe4a895786c54940847ea5f3686da2b, type: 3}
+  m_Name: Test Notes
+  m_EditorClassIdentifier: 
+  character: {fileID: 11400000, guid: 16e7ce9439c165f46b93bbf36a9f5280, type: 2}
+  description: jaboi jabob
+  lines:
+  - Please work
+  - Please?
+  originallines:
+  - Please work
+  - Please?

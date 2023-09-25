@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7dbfd464792ea4b9c27c0e773924d9, type: 3}
+  m_Name: Clem Convo 12
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+  speakerRight: {fileID: 11400000, guid: f2681bd756b7eb74b9125e316a097258, type: 2}
+  question: {fileID: 0}
+  item: {fileID: 11400000, guid: 77b1bba8945c1c2438c75b7e77ca03ec, type: 2}
+  alreadyhasitem: 0
+  notes: {fileID: 11400000, guid: 9379371689faf1e498e5b18a21fe3516, type: 2}
+  noteaddition:
+  - Gave me the key to his house, so I can get his Dust Log. It apparently confirms
+    his movements at the time of the crime.
+  hasnoteaddition: 1
+  alreadyhasnotes: 0
+  DestroyTrigger: 1
+  FinalTrigger: 0
+  EndScreenSceneIndex: 0
+  music: {fileID: 0}
+  StopMusic: 0
+  nextConversation: {fileID: 0}
+  lines:
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: I think that's all I need Clem. Thanks for the help!
+  - character: {fileID: 11400000, guid: f2681bd756b7eb74b9125e316a097258, type: 2}
+    text: "......No problem. \nFeel free to come back and chat if you need anything
+      else."

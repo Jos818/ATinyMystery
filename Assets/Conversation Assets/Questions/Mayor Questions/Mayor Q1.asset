@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8da5981926cb2543acbecc06af183de, type: 3}
+  m_Name: Mayor Q1
+  m_EditorClassIdentifier: 
+  text: You might have screwed up here. How do you recover?
+  choices:
+  - text: Pretend you know what an Inventory is
+    conversation: {fileID: 11400000, guid: ecdc4863ad84ddf4890e13989e36899b, type: 2}
+  - text: Be honest
+    conversation: {fileID: 11400000, guid: 5ec4af68635d7594f98cd83d40ed5f4d, type: 2}
+  - text: Wait, why am I nervous? He's literally pretending to be the mayor.
+    conversation: {fileID: 11400000, guid: 4bb89fbede5981c4c9e9a022e6ddc318, type: 2}

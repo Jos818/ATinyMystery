@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7dbfd464792ea4b9c27c0e773924d9, type: 3}
+  m_Name: Shrink Accusation Convo 1.18
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: fbf4dbe8ac0af444181c9260567ff673, type: 2}
+  speakerRight: {fileID: 11400000, guid: 2c46b74383529ab4c891703d0784ad44, type: 2}
+  question: {fileID: 0}
+  item: {fileID: 0}
+  alreadyhasitem: 0
+  DestroyTrigger: 0
+  FinalTrigger: 0
+  EndScreenSceneIndex: 0
+  music: {fileID: 0}
+  StopMusic: 0
+  nextConversation: {fileID: 11400000, guid: b108eb883d724d443afa5317120828db, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 2c46b74383529ab4c891703d0784ad44, type: 2}
+    text: Well, seeing as all parties involved are satisfied, and that no real harm
+      was done. I'm willing to declare this case closed!
+  - character: {fileID: 11400000, guid: 2c46b74383529ab4c891703d0784ad44, type: 2}
+    text: While we wait for Dr. ShrinkRay to make the growing thingy, why don't we
+      have a dinner to celebrate a mystery solved!
+  - character: {fileID: 11400000, guid: fbf4dbe8ac0af444181c9260567ff673, type: 2}
+    text: That sounds great!
+  - character: {fileID: 11400000, guid: 2c46b74383529ab4c891703d0784ad44, type: 2}
+    text: Excellent. I'll just go tell Fly what happened, and we can all have dinner
+      at my place.

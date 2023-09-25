@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7dbfd464792ea4b9c27c0e773924d9, type: 3}
+  m_Name: Fly Convo 1.9
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 082b7c0e1b6ee684b9cb56b690aba02a, type: 2}
+  speakerRight: {fileID: 11400000, guid: a4062b8858594304c9f00b65db53981f, type: 2}
+  question: {fileID: 0}
+  item: {fileID: 0}
+  alreadyhasitem: 0
+  notes: {fileID: 11400000, guid: 857c2c1440b2cb94885e8d6854acb43b, type: 2}
+  noteaddition:
+  - Died before he could solve the mystey. Figures...
+  hasnoteaddition: 1
+  alreadyhasnotes: 0
+  DestroyTrigger: 1
+  FinalTrigger: 0
+  EndScreenSceneIndex: 0
+  music: {fileID: 0}
+  StopMusic: 0
+  nextConversation: {fileID: 0}
+  lines:
+  - character: {fileID: 11400000, guid: 082b7c0e1b6ee684b9cb56b690aba02a, type: 2}
+    text: You've GOT to be kidding me! That was it! That was the ironclad evidence
+      I needed.
+  - character: {fileID: 11400000, guid: 082b7c0e1b6ee684b9cb56b690aba02a, type: 2}
+    text: FROM SOMEONE WHO COULDN'T LIE FOR PETE'S SAKE!

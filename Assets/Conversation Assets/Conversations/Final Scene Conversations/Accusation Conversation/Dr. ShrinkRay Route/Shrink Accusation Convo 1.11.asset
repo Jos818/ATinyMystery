@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7dbfd464792ea4b9c27c0e773924d9, type: 3}
+  m_Name: Shrink Accusation Convo 1.11
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 24adbc3f73fdf1543adfa596672e1672, type: 2}
+  speakerRight: {fileID: 11400000, guid: fcf59b1141aacd242ad6622f73828dce, type: 2}
+  question: {fileID: 0}
+  item: {fileID: 0}
+  alreadyhasitem: 0
+  notes: {fileID: 0}
+  noteaddition: []
+  hasnoteaddition: 0
+  alreadyhasnotes: 0
+  DestroyTrigger: 0
+  FinalTrigger: 0
+  EndScreenSceneIndex: 0
+  music: {fileID: 0}
+  StopMusic: 1
+  nextConversation: {fileID: 11400000, guid: d786887e2b17c8547bf66d8048d11bad, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 24adbc3f73fdf1543adfa596672e1672, type: 2}
+    text: I'm truly sorry for having put you through this!
+  - character: {fileID: 11400000, guid: fcf59b1141aacd242ad6622f73828dce, type: 2}
+    text: I wish I could say I'm surprised by this, but it was painfully obvious
+      as soon as I spoke to you.
+  - character: {fileID: 11400000, guid: fcf59b1141aacd242ad6622f73828dce, type: 2}
+    text: I mean seriously, it seemed a little on the nose that there was a guy in
+      this town named " Dr. ShrinkRay." Lazy writing if you ask me...

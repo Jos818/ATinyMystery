@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7dbfd464792ea4b9c27c0e773924d9, type: 3}
+  m_Name: Sign Post Convo 3.1
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 5e302f74aa629b64c8cef82b03ef7db0, type: 2}
+  speakerRight: {fileID: 11400000, guid: 1887f7a62d7adf5458a066cf7f528fc8, type: 2}
+  question: {fileID: 0}
+  item: {fileID: 0}
+  alreadyhasitem: 0
+  notes: {fileID: 0}
+  noteaddition: []
+  hasnoteaddition: 0
+  alreadyhasnotes: 0
+  DestroyTrigger: 0
+  FinalTrigger: 0
+  EndScreenSceneIndex: 0
+  music: {fileID: 0}
+  StopMusic: 0
+  nextConversation: {fileID: 11400000, guid: 1ff41a21ac2da6343ac5f814f40bb2ad, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 5e302f74aa629b64c8cef82b03ef7db0, type: 2}
+    text: Why am I suddenly tiny? And on my bedroom floor? This all seems pretty
+      difficult to believe.
+  - character: {fileID: 11400000, guid: 1887f7a62d7adf5458a066cf7f528fc8, type: 2}
+    text: As it happens, I did see what happened.
+  - character: {fileID: 11400000, guid: 1887f7a62d7adf5458a066cf7f528fc8, type: 2}
+    text: It was late last night. I was standing post, as I do every night given
+      that I'm a sign-post and I have no legs.
+  - character: {fileID: 11400000, guid: 1887f7a62d7adf5458a066cf7f528fc8, type: 2}
+    text: You were sleeping in your bed, as you do every night...

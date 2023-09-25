@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7dbfd464792ea4b9c27c0e773924d9, type: 3}
+  m_Name: Mayor Convo 9
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+  speakerRight: {fileID: 11400000, guid: 2c46b74383529ab4c891703d0784ad44, type: 2}
+  question: {fileID: 0}
+  item: {fileID: 0}
+  alreadyhasitem: 0
+  DestroyTrigger: 1
+  FinalTrigger: 0
+  EndScreenSceneIndex: 0
+  music: {fileID: 0}
+  StopMusic: 0
+  nextConversation: {fileID: 0}
+  lines:
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: I think that's all I need to know. I'm ready to start this investigation!
+  - character: {fileID: 11400000, guid: 2c46b74383529ab4c891703d0784ad44, type: 2}
+    text: Excellent, excellent.
+  - character: {fileID: 11400000, guid: 2c46b74383529ab4c891703d0784ad44, type: 2}
+    text: Oh, and one more thing.
+  - character: {fileID: 11400000, guid: 2c46b74383529ab4c891703d0784ad44, type: 2}
+    text: Once you've spoken to everyone and think you know who did it, come back
+      here and I'll call a town meeting where you can present your findings.
+  - character: {fileID: 11400000, guid: 2c46b74383529ab4c891703d0784ad44, type: 2}
+    text: But only do so when you're ready. If you don't have enough evidence to
+      support your claims, I imagine the residents won't take kindly to being summoned.
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: Talk to you when I'm done investigating. Got it!

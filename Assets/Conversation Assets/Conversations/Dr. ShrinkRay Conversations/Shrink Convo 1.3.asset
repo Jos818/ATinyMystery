@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7dbfd464792ea4b9c27c0e773924d9, type: 3}
+  m_Name: Shrink Convo 1.3
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: bf0113c933cc20d49a37133a0838b7ad, type: 2}
+  speakerRight: {fileID: 11400000, guid: 1895b36378d500a459f2e605a0088367, type: 2}
+  question: {fileID: 11400000, guid: d4c15c5ee23aee54fad0fa2dcbab1276, type: 2}
+  item: {fileID: 0}
+  alreadyhasitem: 0
+  notes: {fileID: 11400000, guid: 504300acdc32e7a48b8159bf1591f613, type: 2}
+  noteaddition: []
+  hasnoteaddition: 0
+  alreadyhasnotes: 0
+  DestroyTrigger: 0
+  FinalTrigger: 0
+  EndScreenSceneIndex: 0
+  music: {fileID: 8300000, guid: 74768e53eb72a7049a362f9f6c8bfee8, type: 3}
+  StopMusic: 0
+  nextConversation: {fileID: 0}
+  lines:
+  - character: {fileID: 11400000, guid: 1895b36378d500a459f2e605a0088367, type: 2}
+    text: My name is Dr. Retrecir ShrinkRay, or Dr. ShrinkRay to my friends.
+  - character: {fileID: 11400000, guid: bf0113c933cc20d49a37133a0838b7ad, type: 2}
+    text: ...Your name is Dr. ShrinkRay?
+  - character: {fileID: 11400000, guid: 1895b36378d500a459f2e605a0088367, type: 2}
+    text: Yes. It's a family name. Passed down through generations of pround scientists
+      and alchemists.
+  - character: {fileID: 11400000, guid: bf0113c933cc20d49a37133a0838b7ad, type: 2}
+    text: ...
+  - character: {fileID: 11400000, guid: 1895b36378d500a459f2e605a0088367, type: 2}
+    text: So, what can I help you with, my diminutive friend?

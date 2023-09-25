@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7dbfd464792ea4b9c27c0e773924d9, type: 3}
+  m_Name: Shrink Convo 6.5
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 5e302f74aa629b64c8cef82b03ef7db0, type: 2}
+  speakerRight: {fileID: 11400000, guid: 661cbaa1ede39424a99f5a41b2c5ba21, type: 2}
+  question: {fileID: 0}
+  item: {fileID: 0}
+  alreadyhasitem: 0
+  notes: {fileID: 0}
+  noteaddition: []
+  hasnoteaddition: 0
+  alreadyhasnotes: 0
+  DestroyTrigger: 0
+  FinalTrigger: 0
+  EndScreenSceneIndex: 0
+  music: {fileID: 8300000, guid: 74768e53eb72a7049a362f9f6c8bfee8, type: 3}
+  StopMusic: 0
+  nextConversation: {fileID: 11400000, guid: 86c98e99e31b9c245a3ca07ea25c24fa, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 5e302f74aa629b64c8cef82b03ef7db0, type: 2}
+    text: Who do you think is trying to frame you?
+  - character: {fileID: 11400000, guid: 661cbaa1ede39424a99f5a41b2c5ba21, type: 2}
+    text: I don't know! Anyone in town would have the motive.
+  - character: {fileID: 11400000, guid: 661cbaa1ede39424a99f5a41b2c5ba21, type: 2}
+    text: They're all jealous of my research. I just know they want to steal my work
+      for themselves!
+  - character: {fileID: 11400000, guid: 5e302f74aa629b64c8cef82b03ef7db0, type: 2}
+    text: Interesting...
+  - character: {fileID: 11400000, guid: 661cbaa1ede39424a99f5a41b2c5ba21, type: 2}
+    text: Anyhow, you're the detective here aren't you? You should go figure it out,
+      and clear my good name!

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7dbfd464792ea4b9c27c0e773924d9, type: 3}
+  m_Name: Clem Filing Cabinet Convo 1.4
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 5e302f74aa629b64c8cef82b03ef7db0, type: 2}
+  speakerRight: {fileID: 11400000, guid: bf64817cb5c07724eb2e3f1b6ca54e56, type: 2}
+  question: {fileID: 0}
+  item: {fileID: 11400000, guid: 51bf026fb2ff6d04fb8edd60a10e9253, type: 2}
+  alreadyhasitem: 0
+  notes: {fileID: 11400000, guid: 9379371689faf1e498e5b18a21fe3516, type: 2}
+  noteaddition:
+  - He had an article in his cabinet about shrinking dust. I should ask him about
+    it.
+  hasnoteaddition: 1
+  alreadyhasnotes: 0
+  DestroyTrigger: 0
+  FinalTrigger: 0
+  EndScreenSceneIndex: 0
+  music: {fileID: 0}
+  StopMusic: 0
+  nextConversation: {fileID: 0}
+  lines:
+  - character: {fileID: 11400000, guid: 5e302f74aa629b64c8cef82b03ef7db0, type: 2}
+    text: Hmm? What is this buried underneath the dust at the bottom of the cabinet?
+  - character: {fileID: 11400000, guid: 5e302f74aa629b64c8cef82b03ef7db0, type: 2}
+    text: ......
+  - character: {fileID: 11400000, guid: 5e302f74aa629b64c8cef82b03ef7db0, type: 2}
+    text: It looks like an article from Dust Monthly.
+  - character: {fileID: 11400000, guid: 5e302f74aa629b64c8cef82b03ef7db0, type: 2}
+    text: (Why is there a Dust Monthly?)
+  - character: {fileID: 11400000, guid: 5e302f74aa629b64c8cef82b03ef7db0, type: 2}
+    text: '"How To Shrink Your Dust for Easy Transport."'
+  - character: {fileID: 11400000, guid: 5e302f74aa629b64c8cef82b03ef7db0, type: 2}
+    text: This seems super important! Clem didn't mention anything about shrinking
+      things! I definitely need to ask him about this!

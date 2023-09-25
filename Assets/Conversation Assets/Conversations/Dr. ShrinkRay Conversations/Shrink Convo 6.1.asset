@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7dbfd464792ea4b9c27c0e773924d9, type: 3}
+  m_Name: Shrink Convo 6.1
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 082b7c0e1b6ee684b9cb56b690aba02a, type: 2}
+  speakerRight: {fileID: 11400000, guid: c514bd567d00b8745a7bf8c200aece8f, type: 2}
+  question: {fileID: 0}
+  item: {fileID: 0}
+  alreadyhasitem: 0
+  notes: {fileID: 11400000, guid: 504300acdc32e7a48b8159bf1591f613, type: 2}
+  noteaddition:
+  - He studies how to change the size of things.
+  - He has no alibi for the night of the incident.
+  hasnoteaddition: 1
+  alreadyhasnotes: 0
+  DestroyTrigger: 0
+  FinalTrigger: 0
+  EndScreenSceneIndex: 0
+  music: {fileID: 0}
+  StopMusic: 1
+  nextConversation: {fileID: 11400000, guid: 7151358caaae3564c9f329b94970bc5b, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 082b7c0e1b6ee684b9cb56b690aba02a, type: 2}
+    text: Okay, I've heard enough.
+  - character: {fileID: 11400000, guid: 082b7c0e1b6ee684b9cb56b690aba02a, type: 2}
+    text: You're 100% guilty, I'm gonna go tell the Mayor.
+  - character: {fileID: 11400000, guid: c514bd567d00b8745a7bf8c200aece8f, type: 2}
+    text: WAIT! HOLD ON THERE!
+  - character: {fileID: 11400000, guid: 082b7c0e1b6ee684b9cb56b690aba02a, type: 2}
+    text: C'mon Doc. You're a mad scientist who studies how to change the size of
+      things, you have no explanation for where you were at the time of the incident,
+      you've been waving around a mysterious gun with green energy particles, and
+      your name is LITERALLY Dr. ShrinkRay.
+  - character: {fileID: 11400000, guid: 082b7c0e1b6ee684b9cb56b690aba02a, type: 2}
+    text: Is there anything I'm missing from this picture?
+  - character: {fileID: 11400000, guid: c514bd567d00b8745a7bf8c200aece8f, type: 2}
+    text: Yes!

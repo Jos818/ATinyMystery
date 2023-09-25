@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7dbfd464792ea4b9c27c0e773924d9, type: 3}
+  m_Name: Placeholder
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 57d775d236339c041b3821c777de790a, type: 2}
+  speakerRight: {fileID: 11400000, guid: 0dda5c0bdd4582443bb8b74afb1cd368, type: 2}
+  question: {fileID: 0}
+  item: {fileID: 11400000, guid: a575ed45f8075cd4383f7633acee2ab5, type: 2}
+  alreadyhasitem: 0
+  nextConversation: {fileID: 0}
+  lines:
+  - character: {fileID: 11400000, guid: 57d775d236339c041b3821c777de790a, type: 2}
+    text: "Boy, it sure would be cool if there was something interactive about this
+      object. \nThat would be awesome!"

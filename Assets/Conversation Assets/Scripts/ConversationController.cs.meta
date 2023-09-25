@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 942c4396be8e37a4db618ec05bbcaf72
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - conversation: {instanceID: 0}
+  - speakerLeft: {instanceID: 0}
+  - speakerRight: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

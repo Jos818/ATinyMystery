@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7dbfd464792ea4b9c27c0e773924d9, type: 3}
+  m_Name: Shrink Convo 6.9
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+  speakerRight: {fileID: 11400000, guid: 1895b36378d500a459f2e605a0088367, type: 2}
+  question: {fileID: 0}
+  item: {fileID: 11400000, guid: d74d3f44a12bcdf4790065f94dea2f94, type: 2}
+  alreadyhasitem: 0
+  notes: {fileID: 11400000, guid: 504300acdc32e7a48b8159bf1591f613, type: 2}
+  noteaddition:
+  - He gave me a keycard, so I could get into his lab and ivnestigate, not that he
+    had much of a choice...
+  hasnoteaddition: 1
+  alreadyhasnotes: 0
+  DestroyTrigger: 1
+  FinalTrigger: 0
+  EndScreenSceneIndex: 0
+  music: {fileID: 0}
+  StopMusic: 0
+  nextConversation: {fileID: 0}
+  lines:
+  - character: {fileID: 11400000, guid: 1895b36378d500a459f2e605a0088367, type: 2}
+    text: Please don't mess around with my research. It's very dangerous, and I'd
+      prefer that you didn't accidentally vaporize everyone in a 15-mile radius.
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: Fair enough. I promise not to push any buttons.
+  - character: {fileID: 11400000, guid: 1895b36378d500a459f2e605a0088367, type: 2}
+    text: Good. Here's a Lab Key Card. It'll allow you inside the main lab. Just
+      give it to the computer, and the door should open.
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: Nice. Thanks Doc!

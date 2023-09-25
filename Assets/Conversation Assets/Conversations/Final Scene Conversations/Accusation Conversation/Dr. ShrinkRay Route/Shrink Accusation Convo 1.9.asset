@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7dbfd464792ea4b9c27c0e773924d9, type: 3}
+  m_Name: Shrink Accusation Convo 1.9
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 24adbc3f73fdf1543adfa596672e1672, type: 2}
+  speakerRight: {fileID: 11400000, guid: fcf59b1141aacd242ad6622f73828dce, type: 2}
+  question: {fileID: 0}
+  item: {fileID: 0}
+  alreadyhasitem: 0
+  DestroyTrigger: 0
+  FinalTrigger: 0
+  EndScreenSceneIndex: 0
+  nextConversation: {fileID: 11400000, guid: ee4b6d9c2d668e845a4e96b8bddeb7dd, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 24adbc3f73fdf1543adfa596672e1672, type: 2}
+    text: I was embarrassed about my mistake! I wasn't comfortable testing it on
+      living things yet.
+  - character: {fileID: 11400000, guid: 24adbc3f73fdf1543adfa596672e1672, type: 2}
+    text: When I hit you, I thought you might've died!

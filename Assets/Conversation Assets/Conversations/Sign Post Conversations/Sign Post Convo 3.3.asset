@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7dbfd464792ea4b9c27c0e773924d9, type: 3}
+  m_Name: Sign Post Convo 3.3
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+  speakerRight: {fileID: 11400000, guid: 1887f7a62d7adf5458a066cf7f528fc8, type: 2}
+  question: {fileID: 11400000, guid: 7590597749eeff841b9d48b87d9ad128, type: 2}
+  item: {fileID: 0}
+  alreadyhasitem: 0
+  notes: {fileID: 0}
+  noteaddition: []
+  hasnoteaddition: 0
+  alreadyhasnotes: 0
+  DestroyTrigger: 0
+  FinalTrigger: 0
+  EndScreenSceneIndex: 0
+  music: {fileID: 8300000, guid: 4bfc01fd247eb294588897d3b58cc5ed, type: 3}
+  StopMusic: 0
+  nextConversation: {fileID: 0}
+  lines:
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: Right, sorry.
+  - character: {fileID: 11400000, guid: 1887f7a62d7adf5458a066cf7f528fc8, type: 2}
+    text: Anyways... While you were sleeping, a bright-green beam of light shot directly
+      at you!
+  - character: {fileID: 11400000, guid: 1887f7a62d7adf5458a066cf7f528fc8, type: 2}
+    text: I kind of lost track of you at that point. It looked like you had been
+      disintegrated until a burst of A/C swept you clean off the bed and onto some
+      popcorn. You've been passed out there until now.
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: Wow. I guess I should be glad I'm alive. I always told Mom that I'd die
+      if I cleaned my room!
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: But how did this happen? Bright green shrink-ray beams aren't exactly common,
+      or real in my experience.
+  - character: {fileID: 11400000, guid: 1887f7a62d7adf5458a066cf7f528fc8, type: 2}
+    text: I'd imagine someone in town did it.
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: Wait...

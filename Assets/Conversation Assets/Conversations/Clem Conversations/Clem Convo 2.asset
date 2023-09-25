@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7dbfd464792ea4b9c27c0e773924d9, type: 3}
+  m_Name: Clem Convo 2
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+  speakerRight: {fileID: 11400000, guid: f93feafea47fbff42a17d602a5e050ba, type: 2}
+  question: {fileID: 11400000, guid: b44d15bb81ffc7244b9c4bbc6f7fd20e, type: 2}
+  item: {fileID: 0}
+  alreadyhasitem: 0
+  notes: {fileID: 0}
+  noteaddition: []
+  hasnoteaddition: 0
+  alreadyhasnotes: 0
+  DestroyTrigger: 0
+  FinalTrigger: 0
+  EndScreenSceneIndex: 0
+  music: {fileID: 0}
+  StopMusic: 0
+  nextConversation: {fileID: 0}
+  lines:
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: I understand it might be hard to believe, but I really am a detective,
+      and the situation here is very serious.
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: Last night, while I waas sleeping, someone shrunk me down to this size,
+      for unknown purposes.
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: I've recently learned that the people here are involved in all kinds of
+      magic and science, so my hunch is that someone from this town is responsible.
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: If I can't find out who shrunk me, and find a way to undo it, I might never
+      see my family again. My mom will be worried sick!
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: So please, I really need you to answer just a few questions for me. Anything
+      you can tell me would help.
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: What do you say?
+  - character: {fileID: 11400000, guid: f93feafea47fbff42a17d602a5e050ba, type: 2}
+    text: 
+  - character: {fileID: 11400000, guid: f93feafea47fbff42a17d602a5e050ba, type: 2}
+    text: ......

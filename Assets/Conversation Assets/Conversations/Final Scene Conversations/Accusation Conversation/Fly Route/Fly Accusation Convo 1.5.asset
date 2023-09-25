@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7dbfd464792ea4b9c27c0e773924d9, type: 3}
+  m_Name: Fly Accusation Convo 1.5
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: bf0113c933cc20d49a37133a0838b7ad, type: 2}
+  speakerRight: {fileID: 11400000, guid: 590c0a001572e6d408cb1a95fdd14968, type: 2}
+  question: {fileID: 0}
+  item: {fileID: 0}
+  alreadyhasitem: 0
+  DestroyTrigger: 0
+  FinalTrigger: 0
+  EndScreenSceneIndex: 0
+  music: {fileID: 0}
+  StopMusic: 0
+  nextConversation: {fileID: 11400000, guid: 754d78f9bb49f1643a51dc5613141e1c, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: bf0113c933cc20d49a37133a0838b7ad, type: 2}
+    text: Fly is dead.
+  - character: {fileID: 11400000, guid: 590c0a001572e6d408cb1a95fdd14968, type: 2}
+    text: HE'S DEAD???
+  - character: {fileID: 11400000, guid: bf0113c933cc20d49a37133a0838b7ad, type: 2}
+    text: He was telling me that he witnessed the crime, and was about to tell me
+      who did it, but he died right before he could finish his sentence.
+  - character: {fileID: 11400000, guid: bf0113c933cc20d49a37133a0838b7ad, type: 2}
+    text: But he's a fruit fly, right? Their life spans are really short, so it's
+      probably just an unfortunate coincidence that he died right then.

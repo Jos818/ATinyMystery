@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7dbfd464792ea4b9c27c0e773924d9, type: 3}
+  m_Name: Sign Post Convo 5.1
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+  speakerRight: {fileID: 11400000, guid: 1887f7a62d7adf5458a066cf7f528fc8, type: 2}
+  question: {fileID: 0}
+  item: {fileID: 0}
+  alreadyhasitem: 0
+  nextConversation: {fileID: 11400000, guid: 9a81149c0159a6944bbc33762b5ccb3e, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: Who did this? And how? I have so many questions.
+  - character: {fileID: 11400000, guid: 1887f7a62d7adf5458a066cf7f528fc8, type: 2}
+    text: Unfortunately, I didn't see where the beam originated, seeing as I'm literally
+      incapable of turning my body in any way.
+  - character: {fileID: 11400000, guid: 1887f7a62d7adf5458a066cf7f528fc8, type: 2}
+    text: Still, it was probably one of the town's residents. There's a lot of strange
+      magic and science nonsense that goes on in there.
+  - character: {fileID: 11400000, guid: 1887f7a62d7adf5458a066cf7f528fc8, type: 2}
+    text: I bet if you were to find out who did it, you might be able to figure out
+      a way to get back to your normal size too.
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: Really? But how can I even find out who did it?
+  - character: {fileID: 11400000, guid: 1887f7a62d7adf5458a066cf7f528fc8, type: 2}
+    text: Beats me. If only there was a detective who could help figure everything
+      out...

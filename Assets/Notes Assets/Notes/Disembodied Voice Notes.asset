@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfe4a895786c54940847ea5f3686da2b, type: 3}
+  m_Name: Disembodied Voice Notes
+  m_EditorClassIdentifier: 
+  character: {fileID: 11400000, guid: bf64817cb5c07724eb2e3f1b6ca54e56, type: 2}
+  description: A disembodied voice that narrates things when an animation team would
+    have been needed to show them visually.
+  lines: []
+  originallines:
+  - Pretty judgemental.
+  - Doesn't have a body, so it couldn't have committed the crime. I guess.

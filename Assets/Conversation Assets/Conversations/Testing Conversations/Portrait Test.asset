@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7dbfd464792ea4b9c27c0e773924d9, type: 3}
+  m_Name: Portrait Test
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 0dda5c0bdd4582443bb8b74afb1cd368, type: 2}
+  speakerRight: {fileID: 11400000, guid: 7c82b4c6ecd06ee4d873f68ec31e848c, type: 2}
+  question: {fileID: 0}
+  item: {fileID: 0}
+  alreadyhasitem: 0
+  nextConversation: {fileID: 0}
+  lines:
+  - character: {fileID: 11400000, guid: 0dda5c0bdd4582443bb8b74afb1cd368, type: 2}
+    text: Woah there muchacho! You should probably stop here! The full map hasn't
+      been developed yet!
+  - character: {fileID: 11400000, guid: 7c82b4c6ecd06ee4d873f68ec31e848c, type: 2}
+    text: Why not?
+  - character: {fileID: 11400000, guid: 0dda5c0bdd4582443bb8b74afb1cd368, type: 2}
+    text: Well, custom sprite work is hard, and scripting is even harder, so until
+      we get to the point in the class where I learn how to make a door that warps
+      the player's position, this is all we've got.
+  - character: {fileID: 11400000, guid: 7c82b4c6ecd06ee4d873f68ec31e848c, type: 2}
+    text: Oh, okay. But what if I at least want to get a general sense for how the
+      rest of the map is going to look when it's finished.
+  - character: {fileID: 11400000, guid: 623c975874fd2f044b27a2aae34b1a3b, type: 2}
+    text: Well... I suppose you could go through these lovely popcorn walls I've
+      made, but it ain't gonna be pretty.

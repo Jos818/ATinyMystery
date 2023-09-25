@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8da5981926cb2543acbecc06af183de, type: 3}
+  m_Name: Clem Q1
+  m_EditorClassIdentifier: 
+  text: What's this guy's deal? How should I try and get him to talk?
+  choices:
+  - text: Maybe he just didn't hear you.
+    conversation: {fileID: 11400000, guid: 936c65343a7157049b58f208d1fa3026, type: 2}
+  - text: Tell him how serious the situation is.
+    conversation: {fileID: 11400000, guid: 2dff9bfc8f7a22c42a3170d17a5db961, type: 2}
+  - text: Name-drop The Mayor.
+    conversation: {fileID: 11400000, guid: 0e81bcc435a23b048909351660d820aa, type: 2}

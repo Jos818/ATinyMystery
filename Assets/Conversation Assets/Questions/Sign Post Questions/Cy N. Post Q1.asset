@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8da5981926cb2543acbecc06af183de, type: 3}
+  m_Name: Cy N. Post Q1
+  m_EditorClassIdentifier: 
+  text: What should you ask Cy. N Post?
+  choices:
+  - text: How are you alive?
+    conversation: {fileID: 11400000, guid: aa478c4c3d858be438182f0d87e3cbd4, type: 2}
+  - text: Why am I tiny?
+    conversation: {fileID: 11400000, guid: 6cb9cf100cf7af74ebaefd164e4978c3, type: 2}

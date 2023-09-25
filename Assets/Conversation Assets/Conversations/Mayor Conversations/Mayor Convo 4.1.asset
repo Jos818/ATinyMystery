@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7dbfd464792ea4b9c27c0e773924d9, type: 3}
+  m_Name: Mayor Convo 4.1
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 082b7c0e1b6ee684b9cb56b690aba02a, type: 2}
+  speakerRight: {fileID: 11400000, guid: 590c0a001572e6d408cb1a95fdd14968, type: 2}
+  question: {fileID: 0}
+  item: {fileID: 0}
+  alreadyhasitem: 0
+  notes: {fileID: 0}
+  noteaddition: []
+  hasnoteaddition: 0
+  alreadyhasnotes: 0
+  DestroyTrigger: 0
+  FinalTrigger: 0
+  EndScreenSceneIndex: 0
+  music: {fileID: 0}
+  StopMusic: 1
+  nextConversation: {fileID: 11400000, guid: 39944fb56f7c03d4ab29f629806e78a5, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 082b7c0e1b6ee684b9cb56b690aba02a, type: 2}
+    text: Listen Cy. As much as I would love to play your weird game, I've got a
+      mystery to solve, so can we just cut to the chase?
+  - character: {fileID: 11400000, guid: 590c0a001572e6d408cb1a95fdd14968, type: 2}
+    text: Hey! I don't see anyone trying to crush YOUR dreams. Do you have any idea
+      how hard my life is?
+  - character: {fileID: 11400000, guid: 590c0a001572e6d408cb1a95fdd14968, type: 2}
+    text: This is the only gig I've got! There's VERY little a sentient sign post
+      can do.
+  - character: {fileID: 11400000, guid: 590c0a001572e6d408cb1a95fdd14968, type: 2}
+    text: When I was a kid, I wanted to be a star pitcher for the Cleveland Spiders,
+      but when I tried out for the team, the other kids just used me as a bat!

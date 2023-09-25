@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7dbfd464792ea4b9c27c0e773924d9, type: 3}
+  m_Name: Mayor Convo 1.2
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 082b7c0e1b6ee684b9cb56b690aba02a, type: 2}
+  speakerRight: {fileID: 11400000, guid: b3344859530b14f4d8bfd39915c72617, type: 2}
+  question: {fileID: 0}
+  item: {fileID: 0}
+  alreadyhasitem: 0
+  notes: {fileID: 11400000, guid: 25fcb76919577ec47a403efe0d6e58f9, type: 2}
+  noteaddition: []
+  hasnoteaddition: 0
+  alreadyhasnotes: 0
+  DestroyTrigger: 0
+  FinalTrigger: 0
+  EndScreenSceneIndex: 0
+  music: {fileID: 0}
+  StopMusic: 0
+  nextConversation: {fileID: 11400000, guid: 97c22fe0d4f9a0c409739ec6a889f776, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: b3344859530b14f4d8bfd39915c72617, type: 2}
+    text: What? I'm not Cy N. Post, the dashing and dependable sign outside of town.
+      I'm the Mayor, Player.
+  - character: {fileID: 11400000, guid: 082b7c0e1b6ee684b9cb56b690aba02a, type: 2}
+    text: So how do you know my name? I didn't mention it.
+  - character: {fileID: 11400000, guid: b3344859530b14f4d8bfd39915c72617, type: 2}
+    text: I... Uh....
+  - character: {fileID: 11400000, guid: b3344859530b14f4d8bfd39915c72617, type: 2}
+    text: I have NO idea what you're talking about. Mayors just have a good feel
+      for these things. I've definitely never seen you before in my life.
+  - character: {fileID: 11400000, guid: 082b7c0e1b6ee684b9cb56b690aba02a, type: 2}
+    text: ...
+  - character: {fileID: 11400000, guid: b3344859530b14f4d8bfd39915c72617, type: 2}
+    text: ...
+  - character: {fileID: 11400000, guid: 082b7c0e1b6ee684b9cb56b690aba02a, type: 2}
+    text: ...
+  - character: {fileID: 11400000, guid: b3344859530b14f4d8bfd39915c72617, type: 2}
+    text: ...
+  - character: {fileID: 11400000, guid: b3344859530b14f4d8bfd39915c72617, type: 2}
+    text: Listen, can you just let me have this? I like wearing the top hat, okay.
+  - character: {fileID: 11400000, guid: 082b7c0e1b6ee684b9cb56b690aba02a, type: 2}
+    text: Right...

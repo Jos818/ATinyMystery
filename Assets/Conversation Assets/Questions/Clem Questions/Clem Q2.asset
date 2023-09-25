@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8da5981926cb2543acbecc06af183de, type: 3}
+  m_Name: Clem Q2
+  m_EditorClassIdentifier: 
+  text: Well that didn't work. What else have I got?
+  choices:
+  - text: Turn on the waterworks. I'll tear his heartstrings to shreds.
+    conversation: {fileID: 11400000, guid: 2dff9bfc8f7a22c42a3170d17a5db961, type: 2}
+  - text: Intimidate him with my powerful connections.
+    conversation: {fileID: 11400000, guid: 0e81bcc435a23b048909351660d820aa, type: 2}
+  - text: ......
+    conversation: {fileID: 11400000, guid: 4f7379ec2acf6184c81746b2230279d4, type: 2}
+  - text: I don't have time to mess around with this guy! I've got investigating
+      to do!
+    conversation: {fileID: 11400000, guid: eec9a438fa3d4224bb932147e7b77b6c, type: 2}

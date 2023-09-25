@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7dbfd464792ea4b9c27c0e773924d9, type: 3}
+  m_Name: Fly Accusation Convo 1.8
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: bf0113c933cc20d49a37133a0838b7ad, type: 2}
+  speakerRight: {fileID: 11400000, guid: 2c46b74383529ab4c891703d0784ad44, type: 2}
+  question: {fileID: 0}
+  item: {fileID: 0}
+  alreadyhasitem: 0
+  DestroyTrigger: 0
+  FinalTrigger: 1
+  EndScreenSceneIndex: 4
+  music: {fileID: 0}
+  StopMusic: 0
+  nextConversation: {fileID: 0}
+  lines:
+  - character: {fileID: 11400000, guid: 2c46b74383529ab4c891703d0784ad44, type: 2}
+    text: ......
+  - character: {fileID: 11400000, guid: bf0113c933cc20d49a37133a0838b7ad, type: 2}
+    text: What?
+  - character: {fileID: 11400000, guid: 2c46b74383529ab4c891703d0784ad44, type: 2}
+    text: Fly was a very young fly, in the prime of his life. He had a whole week
+      before he even hit the average age for a fly.
+  - character: {fileID: 11400000, guid: 2c46b74383529ab4c891703d0784ad44, type: 2}
+    text: So there's no way he died of old-age.
+  - character: {fileID: 11400000, guid: bf0113c933cc20d49a37133a0838b7ad, type: 2}
+    text: Oh...
+  - character: {fileID: 11400000, guid: 2c46b74383529ab4c891703d0784ad44, type: 2}
+    text: And you were the only one present when he died?
+  - character: {fileID: 11400000, guid: bf0113c933cc20d49a37133a0838b7ad, type: 2}
+    text: ......Yeah?
+  - character: {fileID: 11400000, guid: 2c46b74383529ab4c891703d0784ad44, type: 2}
+    text: And you chose to hide that fact?
+  - character: {fileID: 11400000, guid: bf0113c933cc20d49a37133a0838b7ad, type: 2}
+    text: .........yeah?
+  - character: {fileID: 11400000, guid: 2c46b74383529ab4c891703d0784ad44, type: 2}
+    text: And is that his prized vest that he wouldn't be caught dead without that
+      you're holding there?
+  - character: {fileID: 11400000, guid: bf0113c933cc20d49a37133a0838b7ad, type: 2}
+    text: '....................................................yeah? '
+  - character: {fileID: 11400000, guid: 2c46b74383529ab4c891703d0784ad44, type: 2}
+    text: This would all come together to suggest that you killed him and stole his
+      amazing vest.
+  - character: {fileID: 11400000, guid: bf0113c933cc20d49a37133a0838b7ad, type: 2}
+    text: 'Okay, so I can see how this must look, but I promise, I didn''t kill him. '
+  - character: {fileID: 11400000, guid: 2c46b74383529ab4c891703d0784ad44, type: 2}
+    text: Unfortunately, I can't take your word for it. We'll have to take you to
+      jail now.
